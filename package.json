@@ -21,7 +21,4 @@
   "devDependencies": {
     "@playwright/test": "^1.23.2"
   }
-  "engines": {
-    "node": ">=16.0.0"
-  }
 }
